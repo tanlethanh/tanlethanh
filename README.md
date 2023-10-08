@@ -12,3 +12,5 @@
 -   AWS, Terraform, Ansible, Git, Docker, Github Actions
 
 <br>
+
+I love buiding things
