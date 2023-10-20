@@ -13,6 +13,6 @@
 
 <br>
 
-## Styles
+## Life Style
 
 Minimalism - Stoicism
