@@ -13,3 +13,4 @@
 
 <br>
 
+Founder of [Peakee](https://peakee.co) - a languages learning platform, [Zenonian](https://zenonian.com) - Global engineering labs, building anything to explore the world
