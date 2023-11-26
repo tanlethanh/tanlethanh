@@ -18,5 +18,4 @@
 
 -   AWS, Terraform, Git, Docker, Github Actions
 
-<br>
 
