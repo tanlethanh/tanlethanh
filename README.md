@@ -13,4 +13,4 @@ Founder of [Zenonian Labs](https://github.com/zenonian-labs)
 
 -   AWS, Terraform, Git, Docker, Github Actions
 
-
+<a href="https://app.daily.dev/tanlethanh"><img src="https://api.daily.dev/devcards/v2/X0k9kvU4YnyUg2lxa65QP.png?type=wide&r=ynb" alt="Tan Le's Dev Card"/></a>
